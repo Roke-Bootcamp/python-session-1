@@ -1,4 +1,4 @@
-# Session Title: Introduction to Python Programming
+# Introduction to Python Programming Scheme
 
 ## Objective:
 - To introduce students to the basics of Python programming.

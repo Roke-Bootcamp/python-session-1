@@ -1,3 +1,2 @@
-# Roke Bootcamp 
-## Python Session 1
+# Roke Bootcamp - An Introduction to Python
 Welcome the first session of your Python Bootcamp.
